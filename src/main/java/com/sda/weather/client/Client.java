@@ -14,11 +14,6 @@ public class Client {
             System.out.println("2. wyświetl dane meteorologiczne w swoim regionie");
             System.out.println("0. zamknij aplikację");
             int response = scanner.nextInt();
-
         }
-
-
-
-
     }
 }
